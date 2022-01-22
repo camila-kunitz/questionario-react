@@ -1,4 +1,4 @@
-# questionario-react
+# Questionário React
 
 Questionário desenvolvido em React. Baseado no curso de React da plataforma: _Origamid_.
 
